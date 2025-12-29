@@ -1,0 +1,25 @@
+{
+  "name": "to-do-task-project",
+  "version": "1.0.0",
+  "description": "Add, Delete, Update To-Do Task List",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SohelBiswas/To-Do-Task-Project.git"
+  },
+  "author": "Abu Sohel Biswas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SohelBiswas/To-Do-Task-Project/issues"
+  },
+  "homepage": "https://github.com/SohelBiswas/To-Do-Task-Project#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
